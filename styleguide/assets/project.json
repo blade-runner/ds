@@ -1,73 +1,378 @@
 {
-  "version": "114229277",
+  "version": "117224628",
   "colors": {
-    "Green_test": {
-      "r": 0.38823529411764707,
-      "g": 0.7019607843137254,
-      "b": 0.24313725490196078,
+    "grey-30": {
+      "r": 0.7647058823529411,
+      "g": 0.7725490196078432,
+      "b": 0.796078431372549,
       "a": 1
     },
-    "Grey_test": {
-      "r": 0.7411764705882353,
-      "g": 0.7411764705882353,
-      "b": 0.7411764705882353,
+    "guides": {
+      "r": 0.8156862745098039,
+      "g": 0.07450980392156863,
+      "b": 1,
       "a": 1
     },
-    "Blue_test": {
-      "r": 0.17647058823529413,
-      "g": 0.611764705882353,
-      "b": 0.8588235294117647,
+    "Black": {
+      "r": 0.22745098039215686,
+      "g": 0.22745098039215686,
+      "b": 0.23921568627450981,
+      "a": 1
+    },
+    "black": {
+      "r": 0.22745098039215686,
+      "g": 0.23137254901960785,
+      "b": 0.23921568627450981,
+      "a": 1
+    },
+    "total-black": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "grey-10": {
+      "r": 0.9490196078431372,
+      "g": 0.9490196078431372,
+      "b": 0.9568627450980393,
+      "a": 1
+    },
+    "white": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "grey-60": {
+      "r": 0.49411764705882355,
+      "g": 0.5058823529411764,
+      "b": 0.5568627450980392,
+      "a": 1
+    },
+    "grey-20": {
+      "r": 0.8823529411764706,
+      "g": 0.8862745098039215,
+      "b": 0.9098039215686274,
+      "a": 1
+    },
+    "accent": {
+      "r": 0.22745098039215686,
+      "g": 0.23137254901960785,
+      "b": 0.23921568627450981,
+      "a": 1
+    },
+    "error": {
+      "r": 0.8509803921568627,
+      "g": 0.33725490196078434,
+      "b": 0.33725490196078434,
       "a": 1
     }
   },
   "textStyles": {
-    "Text_style_1_test": {
-      "fontFamily": "Roboto",
-      "fontWeight": 100,
-      "fontSize": 14,
-      "lineHeight": 1,
-      "italic": true,
+    "H1": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 35,
+      "lineHeight": 1.097142791748047,
       "letterSpacing": 0
     },
-    "Text_style_2_test": {
-      "fontFamily": "Roboto",
-      "fontWeight": 100,
-      "fontSize": 42,
-      "lineHeight": 1,
+    "H3": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 25,
+      "lineHeight": 1.1946665954589843,
       "letterSpacing": 0
+    },
+    "H2": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 30,
+      "lineHeight": 1.1377777862548828,
+      "letterSpacing": 0
+    },
+    "H5": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 700,
+      "fontSize": 15,
+      "lineHeight": 1.4222222900390624,
+      "letterSpacing": 0
+    },
+    "H4": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeight": 1.28,
+      "letterSpacing": 0
+    },
+    "p2_(secondary_text)": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 12,
+      "lineHeight": 1.4222222900390624,
+      "letterSpacing": 0
+    },
+    "p1_(main_text)": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 15,
+      "lineHeight": 1.4222222900390624,
+      "letterSpacing": 0
+    },
+    "id:_Userpic_letters": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 700,
+      "fontSize": 12,
+      "lineHeight": 0.8533333587646484,
+      "letterSpacing": 0
+    },
+    "id:_Password-hidden": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 15,
+      "lineHeight": 1.4222222900390624,
+      "letterSpacing": 6
+    },
+    "id:_Password-visible": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 15,
+      "lineHeight": 1.4222222900390624,
+      "letterSpacing": 3.75
     }
   },
   "components": [
     {
-      "id": "40:2",
-      "name": "icon_example_1",
-      "description": "Button1",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d935/03e6/425f517b54f909c912370618aa46ac43"
+      "id": "143:5",
+      "name": "icon_/__add_folder",
+      "description": "Add folder",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4786/a57a/efe2555b0cf7a84d7bbeb86c4751e0fd"
     },
     {
-      "id": "44:2",
-      "name": "Component",
+      "id": "145:18",
+      "name": "icon_/__close",
+      "description": "Close",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a7f4/6272/1f9f7d3f63429567ef38229191e1cc7c"
+    },
+    {
+      "id": "145:23",
+      "name": "icon_/__linked",
+      "description": "Link",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0b12/aeda/fa5b665cb5cf93c3e37c28543851a23c"
+    },
+    {
+      "id": "161:2",
+      "name": "icon_/__shared",
+      "description": "Shared\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c635/1bc3/84674b97964639d3b51b1277d73d1771"
+    },
+    {
+      "id": "133:70",
+      "name": "icon_/__search",
+      "description": "Search",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1f30/2a7b/d5db51eb82b5707118697b14562a78f3"
+    },
+    {
+      "id": "139:4",
+      "name": "icon_/__view_list",
+      "description": "View list",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f21f/aaec/b84bf49bef27f50eaf3502adbdbe29ef"
+    },
+    {
+      "id": "143:3",
+      "name": "icon_/__add_project",
+      "description": "Add file",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a2e3/b63a/48157c3b9df2ca41c77fe26568500123"
+    },
+    {
+      "id": "140:5",
+      "name": "icon_/__view_cards",
+      "description": "View cards",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ae5c/bb4c/2a6a29db0c245c8c63a38283ec30b878"
+    },
+    {
+      "id": "248:11",
+      "name": "icon_/__logout",
+      "description": "Log out",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b7ce/9ed4/67125c0f216660f87bd8490f2d762f48"
+    },
+    {
+      "id": "248:12",
+      "name": "icon_/__delete",
+      "description": "Delete",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c179/17c7/37b8a45fc67c1c483d6c7f2c7090f11b"
+    },
+    {
+      "id": "145:8",
+      "name": "icon_/__more",
+      "description": "More",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8448/4c8b/59673708a9f337337e616f87d0c24e99"
+    },
+    {
+      "id": "145:10",
+      "name": "icon_/__arrow_down",
+      "description": "Arrow up&down",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d826/bb31/b302f5c3f1d562fcacf436496fa50c86"
+    },
+    {
+      "id": "228:6",
+      "name": "icon_/__arrow_up",
+      "description": "Arrow up&down",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c9cf/d002/0cc34ac238df62c70377458f463ade2a"
+    },
+    {
+      "id": "145:12",
+      "name": "icon_/__arrow_left",
+      "description": "Arrow left&right",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1373/a54a/35612ad19a9c1ed4f78886b397990f17"
+    },
+    {
+      "id": "228:11",
+      "name": "icon_/__arrow_right",
+      "description": "Arrow left&right",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7fa0/0405/ecad5e441c23bcf5a54932449409e5a8"
+    },
+    {
+      "id": "143:6",
+      "name": "icon_/__eye_open",
+      "description": "Eye open",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/03b9/22d9/0896af96e5711908882b442d43c18852"
+    },
+    {
+      "id": "143:8",
+      "name": "icon_/__eye_closed",
+      "description": "Eye closed",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8a94/fff0/67c88066e5f3c7c686ca890e6d7fe875"
+    },
+    {
+      "id": "133:15",
+      "name": "icon_/_help_question",
+      "description": "Help question",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4d59/3075/4c5f33134f8f9bc70bda285e1861ca15"
+    },
+    {
+      "id": "133:16",
+      "name": "icon_/_help_answer",
+      "description": "Help\n answer\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e914/7b22/13b1e152775a353ab5c8c351edb0c788"
+    },
+    {
+      "id": "131:202",
+      "name": "icon_/__projects",
+      "description": "Projects\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1cba/8e7a/33448aa326c1b5c6c6d3ed55ad4ce714"
+    },
+    {
+      "id": "131:208",
+      "name": "icon_/__presets",
+      "description": "Presets\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/79a2/22da/ece4a9b2f2b3f9a4723d5b02d806ad6a"
+    },
+    {
+      "id": "133:3",
+      "name": "icon_/__share",
+      "description": "Sharing\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/51a4/0e65/396fb94d158614899f8a4330d0bbed89"
+    },
+    {
+      "id": "133:8",
+      "name": "icon_/__notifications",
+      "description": "Notification\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e4fc/a411/944450179f142dcffa88134fa3401fd4"
+    },
+    {
+      "id": "133:17",
+      "name": "folder",
+      "description": "Folder"
+    },
+    {
+      "id": "217:9",
+      "name": "dino",
       "description": ""
     },
     {
-      "id": "58:1",
-      "name": "button_asd",
+      "id": "217:27",
+      "name": "art",
       "description": ""
     },
     {
-      "id": "64:9",
-      "name": "Button",
-      "description": "TestButton"
-    },
-    {
-      "id": "72:0",
-      "name": "#icon_leaf_1",
+      "id": "217:35",
+      "name": "man",
       "description": ""
     },
     {
-      "id": "64:15",
-      "name": "Button2",
+      "id": "217:43",
+      "name": "hand",
       "description": ""
+    },
+    {
+      "id": "178:15",
+      "name": "_resize_left",
+      "description": ""
+    },
+    {
+      "id": "178:13",
+      "name": "_resize_right",
+      "description": ""
+    },
+    {
+      "id": "178:12",
+      "name": "_resize_down",
+      "description": ""
+    },
+    {
+      "id": "178:11",
+      "name": "_resize_up",
+      "description": ""
+    },
+    {
+      "id": "178:10",
+      "name": "_resize_horizontal",
+      "description": ""
+    },
+    {
+      "id": "178:9",
+      "name": "_resize_vertical",
+      "description": ""
+    },
+    {
+      "id": "178:8",
+      "name": "_move_around",
+      "description": ""
+    },
+    {
+      "id": "178:7",
+      "name": "_pointer",
+      "description": ""
+    },
+    {
+      "id": "178:6",
+      "name": "_text",
+      "description": ""
+    },
+    {
+      "id": "178:5",
+      "name": "_grab",
+      "description": ""
+    },
+    {
+      "id": "177:51",
+      "name": "_catch",
+      "description": ""
+    },
+    {
+      "id": "178:4",
+      "name": "_press",
+      "description": ""
+    },
+    {
+      "id": "145:25",
+      "name": "horizontal",
+      "description": "Div horizontal"
+    },
+    {
+      "id": "145:30",
+      "name": "vertical",
+      "description": "Div vertical"
     }
   ]
 }
