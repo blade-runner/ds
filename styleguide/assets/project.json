@@ -1,5 +1,5 @@
 {
-  "version": "119325580",
+  "version": "119703465",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -306,6 +306,18 @@
       "name": "icon_edit",
       "description": "Edit",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ea0a/d1dc/a33bda752c5b31226adf2f3ed4d18adf"
+    },
+    {
+      "id": "391:1",
+      "name": "icon_checkbox",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b620/6abd/2c8aae94d12ea3ee9653cd7cf593ba94"
+    },
+    {
+      "id": "391:0",
+      "name": "icon_radio",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0425/f241/ef29939235ddcbc70e69c798d2339683"
     },
     {
       "id": "133:17",
