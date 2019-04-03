@@ -1,5 +1,5 @@
 {
-  "version": "120212600",
+  "version": "120918299",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -371,7 +371,7 @@
       "id": "411:6",
       "name": "icon/fit_to_view",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b8fc/547a/f7016748e0f387c914f5a3701959f2d2"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8347/42e0/48cb1b924ab545f37240427487f8957f"
     },
     {
       "id": "411:7",
@@ -405,9 +405,21 @@
     },
     {
       "id": "415:18",
-      "name": "icon/open-close",
+      "name": "icon/open-close_left",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/52df/7d05/983b4032ac75e1215f9e762fd377d3f2"
+    },
+    {
+      "id": "440:8",
+      "name": "icon/open-close_right",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1631/cf03/4d50117489777fb1f63b847ff2a917f9"
+    },
+    {
+      "id": "460:31",
+      "name": "icon/chunks",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7a55/ab70/c17d02775e968415540badbecba59839"
     },
     {
       "id": "133:17",
