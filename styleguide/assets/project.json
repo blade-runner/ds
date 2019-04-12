@@ -1,5 +1,5 @@
 {
-  "version": "120918299",
+  "version": "123134743",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -420,6 +420,12 @@
       "name": "icon/chunks",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7a55/ab70/c17d02775e968415540badbecba59839"
+    },
+    {
+      "id": "511:35",
+      "name": "icon/delete",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/980d/f274/c632899a41f0e9051619541d46ee508f"
     },
     {
       "id": "133:17",
