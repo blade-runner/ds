@@ -1,5 +1,5 @@
 {
-  "version": "135168575",
+  "version": "135175293",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -22,6 +22,13 @@
       "b": 0.239215686917305,
       "a": 1
     },
+    "grey-60": {
+      "type": "SOLID",
+      "r": 0.4941176474094391,
+      "g": 0.5045751333236694,
+      "b": 0.5568627715110779,
+      "a": 1
+    },
     "total-black": {
       "type": "SOLID",
       "r": 0,
@@ -41,13 +48,6 @@
       "r": 1,
       "g": 1,
       "b": 1,
-      "a": 1
-    },
-    "grey-60": {
-      "type": "SOLID",
-      "r": 0.4941176474094391,
-      "g": 0.5045751333236694,
-      "b": 0.5568627715110779,
       "a": 1
     },
     "grey-45": {
@@ -122,6 +122,13 @@
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
+    "editor_share_icon": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 400,
+      "fontSize": 13,
+      "lineHeight": 1.5384615384615385,
+      "letterSpacing": 0
+    },
     "p1_main-text": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
@@ -135,6 +142,13 @@
       "fontSize": 12,
       "lineHeight": 1,
       "letterSpacing": 0
+    },
+    "editor_caps": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 10,
+      "lineHeight": 2.5,
+      "letterSpacing": 1.5
     },
     "id_Password-hidden": {
       "fontFamily": "PT Root UI",
