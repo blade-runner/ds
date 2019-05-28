@@ -1,5 +1,5 @@
 {
-  "version": "135189525",
+  "version": "135469892",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -526,6 +526,11 @@
       "id": "217:43",
       "name": "hand",
       "description": "Hand"
+    },
+    {
+      "id": "632:8",
+      "name": "unknown",
+      "description": ""
     },
     {
       "id": "621:115",
