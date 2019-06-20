@@ -1,5 +1,5 @@
 {
-  "version": "138312735",
+  "version": "142532557",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -375,7 +375,7 @@
       "id": "415:0",
       "name": "icon/scan",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/36bc/8018/c0916f65ab80e64b7ee1b42c38ef2f43"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c265/d755/5e817bcf8499f140045a26ea0adda60f"
     },
     {
       "id": "415:8",
@@ -471,13 +471,13 @@
       "id": "533:76",
       "name": "icon/bigger",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5fa8/4303/d6370e2d3141be6b9b80c9260b51896d"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5fd4/c692/901a03b45e7cba9f401a48b9db77d187"
     },
     {
       "id": "533:70",
       "name": "icon/smaller",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a17f/3b46/1f8a076bf442dde41573f05918a4f765"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e952/d263/0908533707def0ae55c5e86f1dcff710"
     },
     {
       "id": "533:58",
@@ -536,6 +536,11 @@
     {
       "id": "632:8",
       "name": "unknown",
+      "description": ""
+    },
+    {
+      "id": "659:10",
+      "name": "folder",
       "description": ""
     },
     {
