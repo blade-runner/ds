@@ -1,5 +1,5 @@
 {
-  "version": "142532557",
+  "version": "142552391",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -495,7 +495,7 @@
       "id": "621:160",
       "name": "icons/logo",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e242/bb63/9f81f33697bb571416be71fe04cac0b4"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8aea/1a6f/ca68ff9529f318d2bc281f817a7faafb"
     },
     {
       "id": "633:6",
@@ -504,9 +504,20 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c2cf/100f/c15cba0e42888e43643ee050c9f3a6bc"
     },
     {
+      "id": "664:6",
+      "name": "icon/slash",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6ebd/f859/c13c776108cda49fb01a9857e752973a"
+    },
+    {
       "id": "133:17",
       "name": "folder",
       "description": "Folder"
+    },
+    {
+      "id": "661:26",
+      "name": "logo",
+      "description": ""
     },
     {
       "id": "217:9",
