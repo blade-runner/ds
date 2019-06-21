@@ -1,5 +1,5 @@
 {
-  "version": "142856134",
+  "version": "142858386",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -520,6 +520,18 @@
       "name": "icon/triangulars",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ba7/28f7/6080d89cb4254ae34ee5096a35135bd6"
+    },
+    {
+      "id": "679:7",
+      "name": "icon/triangular",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9841/da32/2dff90158deea6868a6c15512621e29c"
+    },
+    {
+      "id": "679:23",
+      "name": "icon/triangular-down",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a8a9/a103/ac1932134711c89335eb1195d997c61e"
     },
     {
       "id": "675:22",
