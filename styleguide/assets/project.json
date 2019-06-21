@@ -1,5 +1,5 @@
 {
-  "version": "142858386",
+  "version": "142860492",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -556,6 +556,12 @@
       "name": "icons/group",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/900d/fbb7/d26a29eeb9bbbd191f3913c141ba74d4"
+    },
+    {
+      "id": "679:34",
+      "name": "icons/info2",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0679/979e/a57eb9e520167f7af8e2c0b33002ed22"
     },
     {
       "id": "133:17",
