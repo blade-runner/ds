@@ -1,5 +1,5 @@
 {
-  "version": "142808555",
+  "version": "142853011",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -514,6 +514,30 @@
       "name": "icons/3-dots-big",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/60cd/e5f5/80a89e8be6a49489ad9d9759bfbb2ee9"
+    },
+    {
+      "id": "675:5",
+      "name": "icon/triangulars",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ba7/28f7/6080d89cb4254ae34ee5096a35135bd6"
+    },
+    {
+      "id": "675:22",
+      "name": "icons/scan",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2864/024c/b26abb77034d960920b6e6f6ba7322e8"
+    },
+    {
+      "id": "675:28",
+      "name": "icons/mark",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/480a/c812/e377a96a4a84b5fccb51054013769d90"
+    },
+    {
+      "id": "677:7",
+      "name": "icons/model",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4b45/64a2/cc9993c369dd0be964f6b5b7e8b22ba2"
     },
     {
       "id": "133:17",
