@@ -1,5 +1,5 @@
 {
-  "version": "142867207",
+  "version": "142871058",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -519,19 +519,19 @@
       "id": "675:5",
       "name": "icon/triangulars",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ba7/28f7/6080d89cb4254ae34ee5096a35135bd6"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/465a/80b9/6474676e2b9002a780db9f5bd81184e0"
     },
     {
       "id": "679:7",
       "name": "icon/triangular",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9841/da32/2dff90158deea6868a6c15512621e29c"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f9de/b0f9/a696b0e96593eea91739cfa985ba57a5"
     },
     {
       "id": "679:23",
       "name": "icon/triangular-down",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a8a9/a103/ac1932134711c89335eb1195d997c61e"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a2fc/a21b/6802ac2b88309d4093d28d5feea22a2d"
     },
     {
       "id": "675:22",
