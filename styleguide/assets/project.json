@@ -1,5 +1,5 @@
 {
-  "version": "142909115",
+  "version": "142934436",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -173,6 +173,12 @@
     }
   },
   "components": [
+    {
+      "id": "681:2",
+      "name": "icons/small-dot",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/384d/c097/d46007424b3ab05675a39027b8cf76c3"
+    },
     {
       "id": "143:5",
       "name": "icon/add_folder",
@@ -558,12 +564,6 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cd94/27a2/d6fbcdb91f37644a8fc71214f6cf421e"
     },
     {
-      "id": "681:2",
-      "name": "icons/small-dot",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/384d/c097/d46007424b3ab05675a39027b8cf76c3"
-    },
-    {
       "id": "687:5",
       "name": "icons/triangulars",
       "description": "",
@@ -580,6 +580,12 @@
       "name": "icons/triangular-down",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/81bf/451b/ae1ed26c248637e216bd24511a9e8e5c"
+    },
+    {
+      "id": "690:5",
+      "name": "icons/dot",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a42e/8c1d/63e6b78be42335ab09f07cf1315a338c"
     },
     {
       "id": "133:17",
