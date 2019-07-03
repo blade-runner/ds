@@ -1,5 +1,5 @@
 {
-  "version": "142960545",
+  "version": "146555501",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -161,7 +161,7 @@
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 10,
-      "lineHeight": 2.5,
+      "lineHeight": 2,
       "letterSpacing": 1.5
     },
     "id_Password-hidden": {
