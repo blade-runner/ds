@@ -1,5 +1,5 @@
 {
-  "version": "146881591",
+  "version": "146957504",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -592,6 +592,11 @@
       "name": "icons/lock",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/159d/e082/802133d92b3b7060d54738375b7125d3"
+    },
+    {
+      "id": "718:19",
+      "name": "Group_15",
+      "description": ""
     },
     {
       "id": "133:17",
