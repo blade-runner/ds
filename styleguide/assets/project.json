@@ -1,5 +1,5 @@
 {
-  "version": "146960907",
+  "version": "146979439",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -129,9 +129,9 @@
       "lineHeight": 1.5,
       "letterSpacing": 0
     },
-    "p2_secondary-text": {
+    "p2_(secondary_text_bold)": {
       "fontFamily": "PT Root UI",
-      "fontWeight": 500,
+      "fontWeight": 700,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
@@ -148,6 +148,13 @@
       "fontWeight": 500,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
+      "letterSpacing": 0
+    },
+    "p3_secondary-text": {
+      "fontFamily": "PT Root UI",
+      "fontWeight": 500,
+      "fontSize": 13,
+      "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
     "id_Userpic-letters": {
