@@ -1,5 +1,5 @@
 {
-  "version": "147003021",
+  "version": "147004190",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -700,7 +700,7 @@
       "id": "723:5",
       "name": "icons/dot-8x8",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/42ca/f012/d4c66e86a425db880601fb7a8de0a8e2"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8849/bb32/6b39c100fc678ebb62ac12813fa3d21d"
     },
     {
       "id": "133:17",
