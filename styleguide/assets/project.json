@@ -1,5 +1,5 @@
 {
-  "version": "147315012",
+  "version": "147328944",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -772,13 +772,13 @@
       "id": "730:211",
       "name": "icons/mirroring",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/bc70/7e56/c19d252dd9044fe26880662a5d4966f5"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2317/11e8/a4ccab0e0412b540dd3d30514a3374be"
     },
     {
       "id": "730:210",
       "name": "icons/transform",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6ffd/00b3/014b3fae14923438c49a1368eae40c13"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/359c/2d37/4af7c3683c54f7205333e5e875a2950b"
     },
     {
       "id": "730:209",
