@@ -1,5 +1,5 @@
 {
-  "version": "147234295",
+  "version": "147235048",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -694,13 +694,13 @@
       "id": "722:8",
       "name": "icons/dot-5x5",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef0f/4444/e59dd439bfb6973a815521a2b8591a29"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3975/63e4/c3c75249a35d2052d1c366501ab1a1e8"
     },
     {
       "id": "723:5",
       "name": "icons/dot-8x8",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dd56/234d/5765c680776746401c4a9b581f7da72e"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8849/bb32/6b39c100fc678ebb62ac12813fa3d21d"
     },
     {
       "id": "133:17",
