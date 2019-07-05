@@ -1,5 +1,5 @@
 {
-  "version": "147351616",
+  "version": "147352265",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -608,15 +608,15 @@
     },
     {
       "id": "621:108",
-      "name": "icons/info",
+      "name": "icon/info",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/33fa/c910/b0d7beaa11b48b2b498d2f3d3cfaf76e"
     },
     {
       "id": "621:112",
-      "name": "icons/filter",
+      "name": "icon/filter",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3aa2/68e9/9783226dd9b01994c2ff452e764c23a9"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/85ae/611d/a4fb2737136a99e92dcf8299a7681394"
     },
     {
       "id": "621:121",
