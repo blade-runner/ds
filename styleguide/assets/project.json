@@ -1,5 +1,5 @@
 {
-  "version": "149945496",
+  "version": "151566180",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -842,6 +842,36 @@
     {
       "id": "661:26",
       "name": "logo",
+      "description": ""
+    },
+    {
+      "id": "829:35",
+      "name": "illustrations/align",
+      "description": ""
+    },
+    {
+      "id": "829:39",
+      "name": "illustrations/question-answer",
+      "description": ""
+    },
+    {
+      "id": "829:46",
+      "name": "illustrations/edit",
+      "description": ""
+    },
+    {
+      "id": "829:64",
+      "name": "illustrations/number-2",
+      "description": ""
+    },
+    {
+      "id": "829:63",
+      "name": "illustrations/number-1",
+      "description": ""
+    },
+    {
+      "id": "829:66",
+      "name": "illustrations/number-3",
       "description": ""
     },
     {
