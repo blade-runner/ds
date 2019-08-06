@@ -1,5 +1,5 @@
 {
-  "version": "151605504",
+  "version": "158007387",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -180,12 +180,6 @@
     }
   },
   "components": [
-    {
-      "id": "681:2",
-      "name": "icons/small-dot",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/384d/c097/d46007424b3ab05675a39027b8cf76c3"
-    },
     {
       "id": "143:5",
       "name": "icon/add_folder",
@@ -529,6 +523,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/60cd/e5f5/80a89e8be6a49489ad9d9759bfbb2ee9"
     },
     {
+      "id": "877:6",
+      "name": "icons/3-dots-big-filled",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1748/4885/82fb4f3c1607c4350832fda232e8a997"
+    },
+    {
       "id": "675:22",
       "name": "icons/scan",
       "description": "",
@@ -835,6 +835,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0e57/7aed/477f1032840aea0db51a45f919ccd55f"
     },
     {
+      "id": "869:23",
+      "name": "icon/exclamation-sign",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1719/b731/e0acd0609c0b89f2cc8c36d34180edaf"
+    },
+    {
       "id": "133:17",
       "name": "folder",
       "description": "Folder"
@@ -875,6 +881,11 @@
       "description": ""
     },
     {
+      "id": "842:5",
+      "name": "illustrations/success",
+      "description": ""
+    },
+    {
       "id": "217:9",
       "name": "dino",
       "description": "Dino\n"
@@ -907,6 +918,126 @@
     {
       "id": "659:10",
       "name": "folder",
+      "description": ""
+    },
+    {
+      "id": "836:24",
+      "name": "illustrations/autopilot/multicolor-texture",
+      "description": ""
+    },
+    {
+      "id": "836:22",
+      "name": "illustrations/autopilot/rich-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:23",
+      "name": "illustrations/autopilot/multicolor-texture",
+      "description": ""
+    },
+    {
+      "id": "836:25",
+      "name": "illustrations/autopilot/high-contrast-texture",
+      "description": ""
+    },
+    {
+      "id": "836:26",
+      "name": "illustrations/autopilot/fine-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:27",
+      "name": "illustrations/autopilot/large-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:28",
+      "name": "illustrations/autopilot/unique-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:47",
+      "name": "illustrations/autopilot/small",
+      "description": ""
+    },
+    {
+      "id": "836:48",
+      "name": "illustrations/autopilot/medium",
+      "description": ""
+    },
+    {
+      "id": "836:49",
+      "name": "illustrations/autopilot/large",
+      "description": ""
+    },
+    {
+      "id": "836:50",
+      "name": "illustrations/autopilot/huge",
+      "description": ""
+    },
+    {
+      "id": "836:36",
+      "name": "illustrations/autopilot/one-color-texture",
+      "description": ""
+    },
+    {
+      "id": "836:35",
+      "name": "illustrations/autopilot/flat-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:37",
+      "name": "illustrations/autopilot/repetitive-pattern-texture",
+      "description": ""
+    },
+    {
+      "id": "836:38",
+      "name": "illustrations/autopilot/unique-pattern-texture",
+      "description": ""
+    },
+    {
+      "id": "836:34",
+      "name": "illustrations/autopilot/repetitive-geometry",
+      "description": ""
+    },
+    {
+      "id": "836:55",
+      "name": "illustrations/illustrations/autopilot/black",
+      "description": ""
+    },
+    {
+      "id": "836:57",
+      "name": "illustrations/illustrations/autopilot/fuzzy",
+      "description": ""
+    },
+    {
+      "id": "836:59",
+      "name": "illustrations/autopilot/transparent",
+      "description": ""
+    },
+    {
+      "id": "836:61",
+      "name": "illustrations/autopilot/matte",
+      "description": ""
+    },
+    {
+      "id": "836:63",
+      "name": "illustrations/autopilot/white",
+      "description": ""
+    },
+    {
+      "id": "836:65",
+      "name": "illustrations/autopilot/smooth",
+      "description": ""
+    },
+    {
+      "id": "836:67",
+      "name": "illustrations/autopilot/solid",
+      "description": ""
+    },
+    {
+      "id": "841:10",
+      "name": "illustrations/autopilot/shiny",
       "description": ""
     },
     {
