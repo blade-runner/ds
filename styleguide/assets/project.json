@@ -1,5 +1,5 @@
 {
-  "version": "158007387",
+  "version": "161202863",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -839,6 +839,18 @@
       "name": "icon/exclamation-sign",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1719/b731/e0acd0609c0b89f2cc8c36d34180edaf"
+    },
+    {
+      "id": "886:18",
+      "name": "icon/move-to-folder",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/eb5e/cf7d/20b3d79c72f352f0e590fd23cda47dea"
+    },
+    {
+      "id": "886:45",
+      "name": "icon/create-folder",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9e91/9869/e3c3119bc8aab47e335c3e01c8503698"
     },
     {
       "id": "133:17",
