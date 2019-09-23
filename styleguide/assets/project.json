@@ -1,5 +1,5 @@
 {
-  "version": "161202863",
+  "version": "170743113",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -718,7 +718,7 @@
       "id": "728:253",
       "name": "icon/3d-small",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ffd3/dada/1f2f95afda0911c466d293595f36396d"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/bd6e/e5ab/45fdf8e1c3c8abdbe283bca0f8be87db"
     },
     {
       "id": "728:255",
@@ -851,6 +851,30 @@
       "name": "icon/create-folder",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9e91/9869/e3c3119bc8aab47e335c3e01c8503698"
+    },
+    {
+      "id": "909:28",
+      "name": "icon/color-picker",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/eadf/3457/544dee5dc308018f709550de705a877d"
+    },
+    {
+      "id": "910:4",
+      "name": "icon/lighting",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0bfd/115b/e85739c9346fb7f60b26fa103785f5a8"
+    },
+    {
+      "id": "912:0",
+      "name": "icon/lighting-0",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c09f/0325/70a344d44af593f23bf8ae0d53f3ed6c"
+    },
+    {
+      "id": "915:27",
+      "name": "icon/arrow-circle",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0f40/a49c/1ac2d3047e8f7dec13481468a549a72f"
     },
     {
       "id": "133:17",
