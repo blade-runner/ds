@@ -1,5 +1,5 @@
 {
-  "version": "220394813",
+  "version": "220454126",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -1128,11 +1128,12 @@
     },
     {
       "id": "842:5",
-      "name": "illustrations/success",
-      "description": ""
+      "name": "icon/success",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9456/68c4/6b79373fbf6fd84b0f5b3464378f2684"
     },
     {
-      "id": "1413:28",
+      "id": "1420:16",
       "name": "icon/zaplatka",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9435/3049/376404819f009b7d890d2d79999bbee6"
