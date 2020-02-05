@@ -1,5 +1,5 @@
 {
-  "version": "243941463",
+  "version": "244974857",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -129,96 +129,26 @@
     }
   },
   "textStyles": {
-    "H1": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 35,
-      "lineHeight": 1.2857142857142858,
-      "letterSpacing": 0
-    },
-    "H3": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 25,
-      "lineHeight": 1.4,
-      "letterSpacing": 0
-    },
-    "H2": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 30,
-      "lineHeight": 1.3333333333333333,
-      "letterSpacing": 0
-    },
     "H5": {
-      "fontFamily": "PT Root UI",
+      "fontFamily": "PT Root UI Web",
       "fontWeight": 700,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
-      "letterSpacing": 0
-    },
-    "H4": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 400,
-      "fontSize": 20,
-      "lineHeight": 1.5,
       "letterSpacing": 0
     },
     "p2_(secondary_text_bold)": {
-      "fontFamily": "PT Root UI",
+      "fontFamily": "PT Root UI Web",
       "fontWeight": 700,
-      "fontSize": 13,
-      "lineHeight": 1.5384615384615385,
-      "letterSpacing": 0
-    },
-    "editor_share_icon": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 400,
-      "fontSize": 13,
-      "lineHeight": 1.5384615384615385,
-      "letterSpacing": 0
-    },
-    "p1_main-text": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 15,
-      "lineHeight": 1.6666666666666667,
-      "letterSpacing": 0
-    },
-    "p3_secondary-text": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
     "id_Userpic-letters": {
-      "fontFamily": "PT Root UI",
+      "fontFamily": "PT Root UI Web",
       "fontWeight": 700,
       "fontSize": 12,
       "lineHeight": 1,
       "letterSpacing": 0
-    },
-    "editor_caps": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 10,
-      "lineHeight": 2,
-      "letterSpacing": 1.5
-    },
-    "Keyboard_Shortcuts": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 10,
-      "lineHeight": 1.5,
-      "letterSpacing": 0
-    },
-    "id_Password-hidden": {
-      "fontFamily": "PT Root UI",
-      "fontWeight": 500,
-      "fontSize": 15,
-      "lineHeight": 1.6666666666666667,
-      "letterSpacing": 6
     }
   },
   "components": [
@@ -956,7 +886,7 @@
     },
     {
       "id": "1123:30",
-      "name": "icons/back&cancel",
+      "name": "icons/back-cancel",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1dc7/851b/9acdeb22610412410e12ee61930624f7"
     },
