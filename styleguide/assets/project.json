@@ -1,5 +1,5 @@
 {
-  "version": "244974857",
+  "version": "245010725",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -130,21 +130,21 @@
   },
   "textStyles": {
     "H5": {
-      "fontFamily": "PT Root UI Web",
+      "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
       "letterSpacing": 0
     },
     "p2_(secondary_text_bold)": {
-      "fontFamily": "PT Root UI Web",
+      "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
     "id_Userpic-letters": {
-      "fontFamily": "PT Root UI Web",
+      "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 12,
       "lineHeight": 1,
