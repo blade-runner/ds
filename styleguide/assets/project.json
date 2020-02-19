@@ -1,5 +1,5 @@
 {
-  "version": "245017894",
+  "version": "254284868",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -574,7 +574,7 @@
       "id": "675:22",
       "name": "icons/scan",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2864/024c/b26abb77034d960920b6e6f6ba7322e8"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5f4b/a5e9/a81371b463f67c39291ee63aeac7621b"
     },
     {
       "id": "675:28",
@@ -1018,7 +1018,7 @@
       "id": "1294:0",
       "name": "icons/duplicate",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6ccf/9656/c7af7df509f7244124524079505bbdd2"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1f73/ffe9/eb04f92e4aa79e3e671c71c68bb3c083"
     },
     {
       "id": "1299:23",
@@ -1159,6 +1159,24 @@
       "id": "1559:14",
       "name": "favicon",
       "description": ""
+    },
+    {
+      "id": "1596:35",
+      "name": "icon/warning",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef5c/b6d9/b7f971ebd17a307c7cf207746319075c"
+    },
+    {
+      "id": "1596:45",
+      "name": "icon/success",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0c27/3ac4/4a815f29c572f822317e21b4bcc6d582"
+    },
+    {
+      "id": "1596:51",
+      "name": "icon/bin",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0eae/2974/59246d7392448253264b11c485a58f15"
     },
     {
       "id": "217:9",
