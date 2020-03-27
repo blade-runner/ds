@@ -1,5 +1,5 @@
 {
-  "version": "272447988",
+  "version": "281663205",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -508,13 +508,13 @@
       "id": "533:63",
       "name": "icon/upload-av",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e4d6/5784/7626afd3e432c1acca2487d0dc05c84a"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0489/54ef/f12df4fcde43254de03103bd24cb2262"
     },
     {
       "id": "533:64",
       "name": "icon/delete-avatar",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/aae3/309e/5bb6f674a669d51c79522a49916fc347"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7d7a/5824/c2b695e5c62941c523187ae2e5301350"
     },
     {
       "id": "533:76",
@@ -550,7 +550,7 @@
       "id": "633:6",
       "name": "icons/profile",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c2cf/100f/c15cba0e42888e43643ee050c9f3a6bc"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7c92/c49b/4deb4b73d7cf6a4686808d2c4f220540"
     },
     {
       "id": "664:6",
@@ -664,7 +664,7 @@
       "id": "621:118",
       "name": "icons/help",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/308d/3d2d/9e9332f8ec111a877ed0831b74f8643d"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d1f8/463e/41689c20ff8eb50a25bc83bf6a43e0d5"
     },
     {
       "id": "621:142",
@@ -880,13 +880,13 @@
       "id": "886:18",
       "name": "icon/move-to-folder",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/eb5e/cf7d/20b3d79c72f352f0e590fd23cda47dea"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a359/7b75/40eab0de7fa6e07ffdac204c38d927bf"
     },
     {
       "id": "886:45",
       "name": "icon/create-folder",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9e91/9869/e3c3119bc8aab47e335c3e01c8503698"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ab05/aa32/80fa8e6a8b8e630e7d530c2619b31340"
     },
     {
       "id": "909:28",
@@ -988,7 +988,7 @@
       "id": "1139:0",
       "name": "icons/exchange",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2c1e/8a1b/05488f92bae50d5437920c11368f028d"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c4af/c413/3a68fd5873f1b49264369c74c9b8d042"
     },
     {
       "id": "1139:10",
