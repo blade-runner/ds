@@ -1,5 +1,5 @@
 {
-  "version": "281663205",
+  "version": "297264179",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -303,7 +303,7 @@
     {
       "id": "145:10",
       "name": "icon/arrow_down",
-      "description": "Arrow \ndown",
+      "description": "Arrow down",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d826/bb31/b302f5c3f1d562fcacf436496fa50c86"
     },
     {
@@ -406,7 +406,7 @@
       "id": "392:11",
       "name": "icon/navigation",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8520/8f4e/3fd2c7f4cb38fa9bb6382887e9eda21a"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7e11/a8ef/340a5306c8ebd901980c9d478708fae9"
     },
     {
       "id": "415:1",
@@ -724,7 +724,7 @@
       "id": "720:4",
       "name": "icons/frames-small-rectangular",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1b0f/da02/c7a509ae25f6b5be82aada58fa1a83c1"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/30bb/f95b/5f7a07d890ba834ea5eba5aca531484d"
     },
     {
       "id": "721:9",
@@ -844,7 +844,7 @@
       "id": "730:205",
       "name": "icons/erase",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/51d4/f056/9de1673dad1ca7d9a9fbef9b5bc6f8cb"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9b35/182c/6e409037e0cf41d3a7c84375d7937ccc"
     },
     {
       "id": "733:14",
@@ -1090,7 +1090,7 @@
       "id": "1506:0",
       "name": "icon/input",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/76d9/0b27/1205514686982f7c49c0521fa18c556f"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f926/ce9b/c23762e180d0f67b2798bf6554a6d98b"
     },
     {
       "id": "1521:4",
@@ -1108,7 +1108,7 @@
       "id": "1851:31",
       "name": "icons/failure",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3477/628a/645aaeba633e6b11987a05a200b4c8e7"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4872/6db8/50b055f61cbb50409ff2bfd4436c4c5b"
     },
     {
       "id": "1851:52",
@@ -1180,6 +1180,12 @@
       "name": "icon/bell_-_20",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ac57/2292/b5981533d9db63c3a058e92d76d53ebd"
+    },
+    {
+      "id": "2094:53",
+      "name": "icons/help",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c00e/1b70/d0ece764aea77190f2c6d9b8a6a7d891"
     },
     {
       "id": "133:17",
