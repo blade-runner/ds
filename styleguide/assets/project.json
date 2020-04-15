@@ -1,5 +1,5 @@
 {
-  "version": "297264179",
+  "version": "298276653",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -1231,13 +1231,13 @@
       "id": "842:5",
       "name": "icon/success",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9456/68c4/6b79373fbf6fd84b0f5b3464378f2684"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e78f/ade0/00838e72245495436b8bb2dd8c512381"
     },
     {
       "id": "1420:16",
       "name": "icon/zaplatka",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9435/3049/376404819f009b7d890d2d79999bbee6"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/fd76/64c0/a3f1583fec6bdbe50077fed778a9c9a9"
     },
     {
       "id": "1191:0",
@@ -1253,25 +1253,25 @@
       "id": "1596:35",
       "name": "icon/warning",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef5c/b6d9/b7f971ebd17a307c7cf207746319075c"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d6e6/918e/9cba3e23ae819a6bf4d90f17bbe3cc19"
     },
     {
       "id": "1596:45",
       "name": "icon/success",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0c27/3ac4/4a815f29c572f822317e21b4bcc6d582"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1ff3/550e/b543bafe90f74dcd8e853eb4f9cc9d34"
     },
     {
       "id": "1596:51",
       "name": "icon/bin",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0eae/2974/59246d7392448253264b11c485a58f15"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2c35/d183/9463851f52e7b83ecc241abe2ec7b22d"
     },
     {
       "id": "1977:29",
       "name": "icon/stop",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/506c/e2a3/a1bd34f79852f0759a52ea45ed3caee8"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/be22/4dc5/d7c898506d2bc799384fbc42a9480767"
     },
     {
       "id": "217:9",

@@ -1,10 +1,7 @@
 <svg width="85" height="85" viewBox="0 0 85 85" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 0H85V85H0V0Z" fill="white"/>
-<rect width="85" height="85" fill="white"/>
-<path d="M21.5 18.5H63.5V71.5H21.5V18.5Z" stroke="#3A3B3D"/>
-<rect x="12.25" y="18.25" width="60.5" height="0.5" stroke="#3A3B3D" stroke-width="0.5"/>
-<rect x="32.5" y="13.5" width="20" height="5" stroke="#3A3B3D"/>
-<rect x="31" y="31" width="1" height="31" fill="#3A3B3D"/>
-<rect x="53" y="31" width="1" height="31" fill="#3A3B3D"/>
-<rect x="42" y="31" width="1" height="31" fill="#3A3B3D"/>
+<path d="M32 31H31V62H32V31Z" fill="#3A3B3D"/>
+<path d="M53 31H54V62H53V31Z" fill="#3A3B3D"/>
+<path d="M43 31H42V62H43V31Z" fill="#3A3B3D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 18H12V19H21V72H64V19H73V18H53V13H32V18ZM52 14H33V18H52V14ZM63 19V71H22V19H63Z" fill="#3A3B3D"/>
 </svg>
