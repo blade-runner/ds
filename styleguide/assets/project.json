@@ -1,5 +1,5 @@
 {
-  "version": "298276653",
+  "version": "317467270",
   "colors": {
     "grey-30": {
       "type": "SOLID",
@@ -562,13 +562,13 @@
       "id": "669:11",
       "name": "icons/3-dots-big",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/60cd/e5f5/80a89e8be6a49489ad9d9759bfbb2ee9"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b9ba/c547/9c91dc6eaf3beab533c575a5f733ba5c"
     },
     {
       "id": "877:6",
       "name": "icons/3-dots-big-filled",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1748/4885/82fb4f3c1607c4350832fda232e8a997"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9159/d196/41d68ec2ac04c85fd905cc6b3e9e75a2"
     },
     {
       "id": "675:22",
@@ -682,13 +682,13 @@
       "id": "1848:13",
       "name": "icons/cube-project",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b9b0/72b7/a860bfb060d421eab323e2fe72e2dcd3"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4cf9/72ed/419081af859628c96afef8131d44bbda"
     },
     {
       "id": "621:130",
       "name": "icons/history",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8c96/4ad2/9a535722c04d646134a14f2bc2bbd1d8"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9f5d/b3b6/0269d7f1d8004d4ad7925dd1da735b54"
     },
     {
       "id": "621:124",
@@ -706,7 +706,7 @@
       "id": "621:133",
       "name": "icons/center",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cedc/8f44/cba77b58a0c2f9d1f0d433b7846a6e6f"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/042f/0dc5/796cb9210f46f45ed9cd058879033405"
     },
     {
       "id": "718:31",
@@ -940,7 +940,7 @@
       "id": "1052:7",
       "name": "icon/workspace-plus-settings",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/fd41/7e27/ddf0c76caabc97ca3c3d6c4e536f34fb"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/96a7/a645/e025694a31e324fc989de444e914c4bd"
     },
     {
       "id": "1052:23",
@@ -1141,11 +1141,6 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/389f/39a1/72f7ee6f70f7f43e1cd7e515f370aab9"
     },
     {
-      "id": "1998:0",
-      "name": "Group_190",
-      "description": ""
-    },
-    {
       "id": "1998:2",
       "name": "icon/objects-loading",
       "description": "",
@@ -1186,6 +1181,42 @@
       "name": "icons/help",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c00e/1b70/d0ece764aea77190f2c6d9b8a6a7d891"
+    },
+    {
+      "id": "2188:160",
+      "name": "icons/wrong",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5000/a687/2f6296251498cfc41dd867cdd951babb"
+    },
+    {
+      "id": "2188:164",
+      "name": "icon/time",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1f9e/5902/a95ed202d2b739f7280558291c0e0a41"
+    },
+    {
+      "id": "2188:170",
+      "name": "icon/online",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3634/35d4/87f981dfaf5efa9696db13e17a147210"
+    },
+    {
+      "id": "2188:175",
+      "name": "icon/export",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7307/b3b8/5214c1c153969b2c0b591e78e5cd5914"
+    },
+    {
+      "id": "2188:177",
+      "name": "icon/auto-save",
+      "description": "Import",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/bd21/a491/c7fa24db4aac0840ed36ecd739cd334b"
+    },
+    {
+      "id": "2188:182",
+      "name": "icon/offline",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d2ef/5ca9/3e94e64e1b651fa0888b9ae4e4eb87ee"
     },
     {
       "id": "133:17",
@@ -1272,6 +1303,12 @@
       "name": "icon/stop",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/be22/4dc5/d7c898506d2bc799384fbc42a9480767"
+    },
+    {
+      "id": "2205:5",
+      "name": "icon/warning2",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ddc3/2bc5/52587f4257c4166e5866504e36e2c36d"
     },
     {
       "id": "217:9",
