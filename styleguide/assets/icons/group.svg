@@ -1,3 +1,10 @@
 <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.5" y="1.5" width="12" height="12" stroke="#C3C5CB" stroke-dasharray="2 2"/>
+<path d="M3 1H1V3H2V2H3V1Z" fill="#C3C5CB"/>
+<path d="M9 1H6V2H9V1Z" fill="#C3C5CB"/>
+<path d="M12 1H14V3H13V2H12V1Z" fill="#C3C5CB"/>
+<path d="M14 6H13V9H14V6Z" fill="#C3C5CB"/>
+<path d="M13 12H14V14H12V13H13V12Z" fill="#C3C5CB"/>
+<path d="M9 13H6V14H9V13Z" fill="#C3C5CB"/>
+<path d="M1 12H2V13H3V14H1V12Z" fill="#C3C5CB"/>
+<path d="M2 6H1V9H2V6Z" fill="#C3C5CB"/>
 </svg>

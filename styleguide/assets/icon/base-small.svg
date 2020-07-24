@@ -1,7 +1,3 @@
 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.3295 6H4.67047L1 15H19L15.3295 6Z" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M2.62089 11.3923H17.2514" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M3.89392 8.39355H15.9771" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M11.8644 6L13.0389 15" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M8.13631 6L6.96176 15" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 15L4.5 5H15.5L19 15H1ZM3.45948 11L4.15948 9H7.4L7.1 11H3.45948ZM6.95 12H3.10948L2.40948 14H6.65L6.95 12ZM7.66119 14L7.96119 12H12.0388L12.3388 14H7.66119ZM11.1388 6H8.86119L8.56119 8H11.4388L11.1388 6ZM12.45 8L12.15 6H14.7905L15.4905 8H12.45ZM11.5888 9H8.41119L8.11119 11H11.8888L11.5888 9ZM12.9 11L12.6 9H15.8405L16.5405 11H12.9ZM13.05 12H16.8905L17.5905 14H13.35L13.05 12ZM7.55 8L7.85 6H5.20948L4.50948 8H7.55Z" fill="#3A3B3D"/>
 </svg>

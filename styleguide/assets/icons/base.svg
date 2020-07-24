@@ -1,7 +1,3 @@
 <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M22.3099 9H8.69005L4 21H27L22.3099 9Z" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M6.07331 16.189H24.7678" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M7.6957 12.1919H23.1353" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M17.8817 9L19.3826 21" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
-<path d="M13.1185 9L11.6177 21" stroke="#3A3B3D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 22L8 9H22L28 22H2ZM3.56291 21L4.94752 18H10.7692L10.1923 21H3.56291ZM10.9615 17H5.40906L6.79368 14H11.5385L10.9615 17ZM11.7308 13H7.25522L8.63983 10H12.3077L11.7308 13ZM12.5568 14L11.9799 17H18.0201L17.4432 14H12.5568ZM17.2509 13H12.7491L13.326 10H16.674L17.2509 13ZM18.4615 14L19.0385 17H24.5909L23.2063 14H18.4615ZM22.7448 13H18.2692L17.6923 10H21.3602L22.7448 13ZM11.2106 21L11.7876 18H18.2124L18.7894 21H11.2106ZM19.8077 21L19.2308 18H25.0525L26.4371 21H19.8077Z" fill="#3A3B3D"/>
 </svg>
