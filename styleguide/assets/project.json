@@ -1,5 +1,5 @@
 {
-  "version": "381607205",
+  "version": "404661136",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -106,7 +106,7 @@
       "b": 0.9529411792755127,
       "a": 1
     },
-    "Blue": {
+    "Electric_Blue": {
       "type": "SOLID",
       "r": 0.18431372940540314,
       "g": 0.501960813999176,
@@ -122,91 +122,91 @@
     }
   },
   "textStyles": {
-    "Heading_1,_35_|_45_Medium": {
+    "H1": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 35,
       "lineHeight": 1.2857142857142858,
       "letterSpacing": 0
     },
-    "Heading_2,_30_|_40_Medium_": {
+    "H2": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 30,
       "lineHeight": 1.3333333333333333,
       "letterSpacing": 0
     },
-    "Heading_3,_25_|_35_Medium": {
+    "H3": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 25,
       "lineHeight": 1.4,
       "letterSpacing": 0
     },
-    "Heading_4,_20_|_30_Regular": {
+    "H4": {
       "fontFamily": "PT Root UI",
       "fontWeight": 400,
       "fontSize": 20,
       "lineHeight": 1.5,
       "letterSpacing": 0
     },
-    "Heading_5,_15_|_25_Bold": {
+    "H5": {
       "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
       "letterSpacing": 0
     },
-    "Paragraph_1,_15_|_25_Medium_(Main_text)": {
+    "p1_main-text": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
       "letterSpacing": 0
     },
-    "Paragraph_3,_13_|_20_Medium_(Secondary_text)": {
+    "p3_secondary-text": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
-    "12_|_12_Bold_(ID_Userpic_letters)": {
+    "id_Userpic-letters": {
       "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 12,
       "lineHeight": 1,
       "letterSpacing": 0
     },
-    "15_|_25_Medium_(ID_Password_hidden)": {
+    "id_Password-hidden": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 15,
       "lineHeight": 1.6666666666666667,
       "letterSpacing": 6
     },
-    "13_|_20_Regular_(Editor_share_icon)": {
+    "editor_share_icon": {
       "fontFamily": "PT Root UI",
       "fontWeight": 400,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
-    "10_|_25_Medium_(Editor_caps)": {
+    "editor_caps": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 10,
       "lineHeight": 2,
       "letterSpacing": 1.5
     },
-    "Paragraph_2,_13_|_20_Bold_(Secondary_text)": {
+    "p2_(secondary_text_bold)": {
       "fontFamily": "PT Root UI",
       "fontWeight": 700,
       "fontSize": 13,
       "lineHeight": 1.5384615384615385,
       "letterSpacing": 0
     },
-    "10_|_15_Medium_(Keyboard_Shortcuts)": {
+    "Keyboard_Shortcuts": {
       "fontFamily": "PT Root UI",
       "fontWeight": 500,
       "fontSize": 10,
@@ -333,7 +333,7 @@
       "id": "131:208",
       "name": "icon/presets",
       "description": "Presets\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/aaaa/26c5/68ae7072ca3fcd85fc1d4d2878ead3ad"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/62b3/b815/3e65e679fa0cdf5e2ff97970405cef06"
     },
     {
       "id": "133:3",
