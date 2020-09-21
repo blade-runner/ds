@@ -1,5 +1,5 @@
 {
-  "version": "421646026",
+  "version": "465549396",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -810,6 +810,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6232/f013/98581df7c51d379701c7feb5409456ba"
     },
     {
+      "id": "2477:6",
+      "name": "icons/maual-align",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c732/e5f5/789f1805aaed0103d4fc08c4b7292d3f"
+    },
+    {
       "id": "1132:12",
       "name": "icons/auto-alignment",
       "description": "",
@@ -1284,6 +1290,12 @@
       "name": "icon/warning2",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ddc3/2bc5/52587f4257c4166e5866504e36e2c36d"
+    },
+    {
+      "id": "2515:41",
+      "name": "icon/upload_folder",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/87d8/d0c8/2f2335bc8a769cd65c27d5c93f24071b"
     },
     {
       "id": "217:9",
