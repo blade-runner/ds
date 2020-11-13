@@ -1,5 +1,5 @@
 {
-  "version": "539930318",
+  "version": "542278218",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -1239,7 +1239,25 @@
       "id": "3708:7",
       "name": "icons/draganddrop",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/63eb/bad5/936f044bc90b3aa392f97c0c3442cc8d"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d0a8/b97a/cf496c0a2387c86fe2f288d924c57167"
+    },
+    {
+      "id": "3710:37",
+      "name": "icons/resolved",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/553c/c318/09ebb3dd0692b7fee9587636150d1425"
+    },
+    {
+      "id": "3711:12",
+      "name": "icons/show",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5228/b221/3a0d27197a353ce94eadbd7a7b5ba3d8"
+    },
+    {
+      "id": "3711:13",
+      "name": "icons/hide",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0782/ba67/fa0cddb399a80fb373f5f6a3389fc507"
     },
     {
       "id": "133:17",
