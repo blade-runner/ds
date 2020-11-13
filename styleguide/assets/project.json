@@ -1,5 +1,5 @@
 {
-  "version": "465549396",
+  "version": "539930318",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -282,6 +282,30 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/333d/c111/6720b3790df42e8f9ef1b1d70eb6718a"
     },
     {
+      "id": "2549:161",
+      "name": "icon/camera_15",
+      "description": "Password\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/89ff/0c01/db5cd910f7ee7c6b68758c1b459a4c87"
+    },
+    {
+      "id": "2549:162",
+      "name": "icon/color_mode",
+      "description": "Password\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f4fc/1271/2ae2fc3a5d1d5a46e2755923d9c5a707"
+    },
+    {
+      "id": "2549:163",
+      "name": "icon/render_mode",
+      "description": "Password\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/df19/11f7/987ea57781e1b4b7e249fc78a9a0edd2"
+    },
+    {
+      "id": "2549:164",
+      "name": "icon/shade_mode",
+      "description": "Password\n",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cb61/feb3/2a603118d9c027f25bff5714d52cac0f"
+    },
+    {
       "id": "145:8",
       "name": "icon/more",
       "description": "More",
@@ -459,7 +483,7 @@
       "id": "533:58",
       "name": "icon/drag-and-drop",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2f13/e62b/fc08a12ccfb77889686330964d1b4749"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/174b/9a47/5e5e509d080cdafc8f67dd61e7393450"
     },
     {
       "id": "533:57",
@@ -1198,6 +1222,24 @@
       "name": "icons/retry",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5eda/9ea1/f39fa2f3afa357a06e893a1c87072e80"
+    },
+    {
+      "id": "2539:37",
+      "name": "icon/link",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ad9/e5f0/186760e27706692181d8606603ace117"
+    },
+    {
+      "id": "2562:3",
+      "name": "icon/download-20",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6a36/dfbb/afc213d1b2fc8c0e55e11445b8538159"
+    },
+    {
+      "id": "3708:7",
+      "name": "icons/draganddrop",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/63eb/bad5/936f044bc90b3aa392f97c0c3442cc8d"
     },
     {
       "id": "133:17",
