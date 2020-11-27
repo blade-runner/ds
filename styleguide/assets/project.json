@@ -1,5 +1,5 @@
 {
-  "version": "544827372",
+  "version": "562573431",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -118,6 +118,13 @@
       "r": 0.7333333492279053,
       "g": 0.41960784792900085,
       "b": 0.8509804010391235,
+      "a": 1
+    },
+    "White": {
+      "type": "SOLID",
+      "r": 1,
+      "g": 1,
+      "b": 1,
       "a": 1
     }
   },
@@ -562,6 +569,30 @@
       "name": "icons/triangulars",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8cfb/badb/ceb441a8df1a237fcd8141b0aecbfe3a"
+    },
+    {
+      "id": "3744:35",
+      "name": "icons/arrow-down-25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/773a/3fdd/2334c7e28302143560208795a0fe3d30"
+    },
+    {
+      "id": "3744:42",
+      "name": "icons/arrow-up-25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f3b7/7016/886d7fc07aa62bbb654efe9c475711a0"
+    },
+    {
+      "id": "3830:39",
+      "name": "icons/arrow-left-25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2085/41e5/a7c061a3b20a135c7beb1fd93402af23"
+    },
+    {
+      "id": "3830:40",
+      "name": "icons/arrow-right-25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c86c/03c2/cbe2c986b47902a01cae33c66848fcd7"
     },
     {
       "id": "687:17",
@@ -1258,6 +1289,24 @@
       "name": "icons/hide",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0782/ba67/fa0cddb399a80fb373f5f6a3389fc507"
+    },
+    {
+      "id": "3723:0",
+      "name": "icons/point",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6e5e/7252/2c33373c4520427274c302c9243e6e98"
+    },
+    {
+      "id": "3774:3",
+      "name": "icon/sort",
+      "description": "View list",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c91/79cb/c778bc3becfa320dc69e6dc6b3b945ab"
+    },
+    {
+      "id": "3836:4",
+      "name": "icons/small_userpic",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dd1a/c93d/ff110178d43cd70f9d57ec4d6f409aff"
     },
     {
       "id": "133:17",
