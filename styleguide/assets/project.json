@@ -1,5 +1,5 @@
 {
-  "version": "562573431",
+  "version": "571404557",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -463,6 +463,18 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1c32/f570/ad6c25ad0a544dbb0dca05269eb96e8b"
     },
     {
+      "id": "744:7",
+      "name": "icon/close-small",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/00ec/d61c/92f5f3cd962da404138b5a4ddf692f3b"
+    },
+    {
+      "id": "3842:0",
+      "name": "icons/uploading+close_24",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/fa16/e880/a12b2c4aa25b8af21771eb6331c13f37"
+    },
+    {
       "id": "533:63",
       "name": "icon/upload-av",
       "description": "",
@@ -749,12 +761,6 @@
       "name": "icons/3-dots-small",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/123a/8945/d2d37ad73d170d1322f7df1f4d1fc3e0"
-    },
-    {
-      "id": "744:7",
-      "name": "icon/close-small",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/00ec/d61c/92f5f3cd962da404138b5a4ddf692f3b"
     },
     {
       "id": "791:10",
@@ -1307,6 +1313,24 @@
       "name": "icons/small_userpic",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dd1a/c93d/ff110178d43cd70f9d57ec4d6f409aff"
+    },
+    {
+      "id": "3844:8",
+      "name": "icons/tryagain_24",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cd6d/04d0/0c6038338870b77053524786b06b8c9a"
+    },
+    {
+      "id": "3844:67",
+      "name": "icons/failed_24",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4323/ccf9/4fb1e59d3e7db8059ff59c2527900644"
+    },
+    {
+      "id": "3846:7",
+      "name": "icon/attachfile15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2f56/42bc/cd70de2626ced0f44fa625c5651d0fdb"
     },
     {
       "id": "133:17",
