@@ -1,5 +1,5 @@
 {
-  "version": "571404557",
+  "version": "685197746",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -502,7 +502,7 @@
       "id": "533:58",
       "name": "icon/drag-and-drop",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/174b/9a47/5e5e509d080cdafc8f67dd61e7393450"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2f13/e62b/fc08a12ccfb77889686330964d1b4749"
     },
     {
       "id": "533:57",
@@ -563,6 +563,12 @@
       "name": "icons/info15",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/47a8/1b7b/79a862feebf0eeefb2a9b38f8afdb894"
+    },
+    {
+      "id": "4031:12",
+      "name": "icons/failed15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e098/645c/55bb4a1e0c8a30e117ca20967bd76515"
     },
     {
       "id": "678:3",
@@ -883,12 +889,6 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/859a/8abc/ba7ee962ab35b832908db85ddf43d3aa"
     },
     {
-      "id": "1139:0",
-      "name": "icons/exchange",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/bac8/4737/88585f59b280092f888a79556bae0f00"
-    },
-    {
       "id": "1139:10",
       "name": "icons/drag",
       "description": "",
@@ -1117,6 +1117,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/429b/fda1/6bcfd3cd987bf082eb39a15b3265cdab"
     },
     {
+      "id": "4162:44",
+      "name": "icon/share_2",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f557/be4d/0e0a171637decb630b72757361d39ee3"
+    },
+    {
       "id": "2188:177",
       "name": "icon/auto-save",
       "description": "Import",
@@ -1331,6 +1337,72 @@
       "name": "icon/attachfile15",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2f56/42bc/cd70de2626ced0f44fa625c5651d0fdb"
+    },
+    {
+      "id": "4000:3",
+      "name": "icons/player/play",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/db16/7f25/7599b524b98f119964465a2297702bf8"
+    },
+    {
+      "id": "4000:34",
+      "name": "icons/player/pause",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dfbd/aad9/f584cf844cf64204def8eaca5b30e15e"
+    },
+    {
+      "id": "4000:9",
+      "name": "icons/player/volume",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/67e2/7201/f3abda030a78f49e144ad24d6a26f5c9"
+    },
+    {
+      "id": "4000:8",
+      "name": "icons/player/full_screen",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6184/0377/f2ad4994167ecb8e310adcd55d6bcdfe"
+    },
+    {
+      "id": "4000:35",
+      "name": "icons/player/screen",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/05d4/b784/699959ae2b25a7cf494f247e9c6b5cb1"
+    },
+    {
+      "id": "4015:36",
+      "name": "icons/arrowdown_20",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1c3d/9a3b/3f72fbc420998f8faa5e884363c20f93"
+    },
+    {
+      "id": "4015:41",
+      "name": "icons/arrowup_20",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d9bd/1d22/b2a7a4eb8f155cda9c7a28238188332d"
+    },
+    {
+      "id": "4100:20",
+      "name": "icon/error25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0295/9381/ddb1277e81ab25563afe38283cf67525"
+    },
+    {
+      "id": "4100:19",
+      "name": "icon/alarm25",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a5e3/0f3b/5be213f0fba10c1e2647bae2d70a8334"
+    },
+    {
+      "id": "4104:10",
+      "name": "icon/attach-file-2",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2f89/4ba4/dd99295c6dfe0eec42167b91974c5ce9"
+    },
+    {
+      "id": "4115:2",
+      "name": "icon/drag-and-drop-small",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0602/87dd/368832b957a8159a5df4b9f8377b75cf"
     },
     {
       "id": "133:17",
