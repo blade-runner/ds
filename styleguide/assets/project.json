@@ -1,5 +1,5 @@
 {
-  "version": "818096500",
+  "version": "828238220",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -125,13 +125,6 @@
       "r": 1,
       "g": 1,
       "b": 1,
-      "a": 1
-    },
-    "Green_40": {
-      "type": "SOLID",
-      "r": 0.25882354378700256,
-      "g": 0.7450980544090271,
-      "b": 0.3960784375667572,
       "a": 1
     }
   },
@@ -1430,30 +1423,6 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/bb20/4da7/c4206cbb50b7201a2baa31f163bca79f"
     },
     {
-      "id": "4264:64",
-      "name": "icon/label_only_view",
-      "description": "Shared\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8a29/b7b7/7fcd11716b40eba2740e73d63aa0e805"
-    },
-    {
-      "id": "4264:62",
-      "name": "icon/label_share",
-      "description": "Shared\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5297/8d3d/e1a550f54315d60a71638a9b71c5566d"
-    },
-    {
-      "id": "4388:66",
-      "name": "icon/label_share_off",
-      "description": "Shared\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/708c/f9d4/9797d9ee48a3e83fad33af8b1327e92e"
-    },
-    {
-      "id": "4264:63",
-      "name": "icon/label_hd",
-      "description": "Shared\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8b18/4454/25fcd429b50af3948c8c8e37a2ac3c81"
-    },
-    {
       "id": "4325:37",
       "name": "icon/stored-in-cloud",
       "description": "",
@@ -1493,7 +1462,7 @@
       "id": "4424:146",
       "name": "icon/label_hd",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9f02/93f5/0f973e514ded049c24d5658b55fb03a3"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4c11/b311/5b9f2a081186ac0f634e190925d46853"
     },
     {
       "id": "133:17",
