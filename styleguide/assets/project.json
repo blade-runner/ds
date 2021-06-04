@@ -1,5 +1,5 @@
 {
-  "version": "845409513",
+  "version": "894180211",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -562,7 +562,7 @@
       "id": "2347:13",
       "name": "icons/info15",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/47a8/1b7b/79a862feebf0eeefb2a9b38f8afdb894"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7617/de0b/334dfeafd8b1861cfa448f7d9ede815e"
     },
     {
       "id": "4031:12",
@@ -782,9 +782,9 @@
     },
     {
       "id": "869:23",
-      "name": "icon/exclamation-sign",
+      "name": "icon/static_exclamation-sign",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7bf6/c5d7/249a69546c4eb6b5d623e21e22683503"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/2b65/4305/8aeed43b9b1a80dcf48b4478d3a4710a"
     },
     {
       "id": "886:18",
@@ -1469,6 +1469,12 @@
       "name": "icons/wrongbig",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ba6a/8bd4/a3f06666de822086f18053080f28d31b"
+    },
+    {
+      "id": "4504:42",
+      "name": "icon/smile",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b17d/7c38/8530199a50fc28ec3ef827775f4c0fd2"
     },
     {
       "id": "133:17",
