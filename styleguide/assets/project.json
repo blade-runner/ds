@@ -1,5 +1,5 @@
 {
-  "version": "894180211",
+  "version": "954852750",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -298,7 +298,7 @@
       "id": "2549:162",
       "name": "icon/color_mode",
       "description": "Password\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f4fc/1271/2ae2fc3a5d1d5a46e2755923d9c5a707"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9397/931b/0b32c7f4480e926794a5227776a4211d"
     },
     {
       "id": "2549:163",
@@ -310,7 +310,7 @@
       "id": "2549:164",
       "name": "icon/shade_mode",
       "description": "Password\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cb61/feb3/2a603118d9c027f25bff5714d52cac0f"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/12c5/00a3/4bb75dd9a6978f45e59f027be5d762e5"
     },
     {
       "id": "145:8",
@@ -1475,6 +1475,12 @@
       "name": "icon/smile",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b17d/7c38/8530199a50fc28ec3ef827775f4c0fd2"
+    },
+    {
+      "id": "4563:39",
+      "name": "icon/hdlabel-15px",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/42eb/ae7d/bc380ca65f2f913c61b6396a3c2d7642"
     },
     {
       "id": "133:17",
