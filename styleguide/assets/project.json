@@ -1,5 +1,5 @@
 {
-  "version": "954852750",
+  "version": "992928655",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -111,6 +111,20 @@
       "r": 0.18431372940540314,
       "g": 0.501960813999176,
       "b": 0.929411768913269,
+      "a": 1
+    },
+    "Green-40": {
+      "type": "SOLID",
+      "r": 0.25882354378700256,
+      "g": 0.7450980544090271,
+      "b": 0.3960784375667572,
+      "a": 1
+    },
+    "Accent-2": {
+      "type": "SOLID",
+      "r": 0.2980392277240753,
+      "g": 0.2980392277240753,
+      "b": 0.30588236451148987,
       "a": 1
     },
     "Purple_2": {
@@ -1483,6 +1497,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/42eb/ae7d/bc380ca65f2f913c61b6396a3c2d7642"
     },
     {
+      "id": "4597:40",
+      "name": "icon/link-15px",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9d66/ac04/6a7c9ff71273afe8ed197695a1c649e1"
+    },
+    {
       "id": "133:17",
       "name": "folder",
       "description": "Folder"
@@ -1603,6 +1623,18 @@
       "name": "icons/smallfolder",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b881/2cab/4900cb13354c2cd69aaabb917f18b7a8"
+    },
+    {
+      "id": "4595:39",
+      "name": "icons/smallproject",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6275/e3d3/a0ad4f10884a617652daaf120ee4ea50"
+    },
+    {
+      "id": "4595:48",
+      "name": "icons/bigproject",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b158/1060/1782f73def005dc6b6da395173c10804"
     },
     {
       "id": "217:9",
