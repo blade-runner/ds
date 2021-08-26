@@ -1,5 +1,5 @@
 {
-  "version": "992928655",
+  "version": "1081652979",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -1158,7 +1158,7 @@
       "id": "133:16",
       "name": "icon/help_answer",
       "description": "Help answer\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e914/7b22/13b1e152775a353ab5c8c351edb0c788"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ec9/4fcf/904b0da7ec9870327b99faeb736e4756"
     },
     {
       "id": "664:6",
@@ -1500,7 +1500,7 @@
       "id": "4597:40",
       "name": "icon/link-15px",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9d66/ac04/6a7c9ff71273afe8ed197695a1c649e1"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/34cd/2084/3f90f9b5ac97198e5efbd4fdaae46fd9"
     },
     {
       "id": "133:17",
@@ -1865,7 +1865,7 @@
       "id": "730:217",
       "name": "icons/lasso",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7f0f/9d52/eaad58822c024877d3b3e0fc1a3b9384"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4731/0473/dfad7fe154e23e44e7029a3e29dcac52"
     },
     {
       "id": "2024:23",
