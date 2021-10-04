@@ -1,5 +1,5 @@
 {
-  "version": "1081652979",
+  "version": "1179017674",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -1152,13 +1152,13 @@
       "id": "133:15",
       "name": "icon/help_question",
       "description": "Help question",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4f2e/d2ed/815666ae283ff15f040a025543ccfbfc"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0f25/b3ab/7068711742544d0e3e9c6d440ee62f1f"
     },
     {
       "id": "133:16",
       "name": "icon/help_answer",
       "description": "Help answer\n",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9ec9/4fcf/904b0da7ec9870327b99faeb736e4756"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5723/e9c5/33a8368052fa4db3fd9749268ca88217"
     },
     {
       "id": "664:6",
@@ -1485,6 +1485,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ba6a/8bd4/a3f06666de822086f18053080f28d31b"
     },
     {
+      "id": "4794:52",
+      "name": "icons/folder",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d372/3c9f/6dde7479d51497d76f3a067ed4c096ac"
+    },
+    {
       "id": "4504:42",
       "name": "icon/smile",
       "description": "",
@@ -1501,6 +1507,12 @@
       "name": "icon/link-15px",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/34cd/2084/3f90f9b5ac97198e5efbd4fdaae46fd9"
+    },
+    {
+      "id": "4867:81",
+      "name": "icon/raw_data",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3e5c/bfc0/5ccfc96907453698c40b237f28659aa4"
     },
     {
       "id": "133:17",
@@ -1628,13 +1640,19 @@
       "id": "4595:39",
       "name": "icons/smallproject",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6275/e3d3/a0ad4f10884a617652daaf120ee4ea50"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1aae/7081/92c2500edf8158d2b856a824ecd2e4eb"
     },
     {
       "id": "4595:48",
       "name": "icons/bigproject",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b158/1060/1782f73def005dc6b6da395173c10804"
+    },
+    {
+      "id": "4796:77",
+      "name": "icons/applause",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/07a7/7480/22ebc33464442dd667e6035cefbfdf05"
     },
     {
       "id": "217:9",
