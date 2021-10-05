@@ -1,5 +1,5 @@
 {
-  "version": "1179017674",
+  "version": "1181969319",
   "colors": {
     "black": {
       "type": "SOLID",
@@ -125,6 +125,20 @@
       "r": 0.2980392277240753,
       "g": 0.2980392277240753,
       "b": 0.30588236451148987,
+      "a": 1
+    },
+    "raw_inactive": {
+      "type": "SOLID",
+      "r": 0.95686274766922,
+      "g": 0.5529412031173706,
+      "b": 0.9960784316062927,
+      "a": 1
+    },
+    "raw_active": {
+      "type": "SOLID",
+      "r": 0.929411768913269,
+      "g": 0.11764705926179886,
+      "b": 1,
       "a": 1
     },
     "Purple_2": {
@@ -1512,7 +1526,7 @@
       "id": "4867:81",
       "name": "icon/raw_data",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3e5c/bfc0/5ccfc96907453698c40b237f28659aa4"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/766d/295a/4f064379b5b665b5e300b759e6c4ae06"
     },
     {
       "id": "133:17",
