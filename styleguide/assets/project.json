@@ -1,11 +1,207 @@
 {
-  "version": "1408270770",
+  "version": "1582756886",
   "colors": {
-    "black": {
+    "Primary_Colors/black": {
       "type": "SOLID",
       "r": 0.22745098173618317,
       "g": 0.2294117659330368,
       "b": 0.239215686917305,
+      "a": 1
+    },
+    "Primary_Colors/grey-60": {
+      "type": "SOLID",
+      "r": 0.4941176474094391,
+      "g": 0.5045751333236694,
+      "b": 0.5568627715110779,
+      "a": 1
+    },
+    "Primary_Colors/grey-30": {
+      "type": "SOLID",
+      "r": 0.7660066485404968,
+      "g": 0.7713333368301392,
+      "b": 0.797966718673706,
+      "a": 1
+    },
+    "Primary_Colors/grey-20": {
+      "type": "SOLID",
+      "r": 0.8813167810440063,
+      "g": 0.88609778881073,
+      "b": 0.9100027084350586,
+      "a": 1
+    },
+    "Primary_Colors/grey-10": {
+      "type": "SOLID",
+      "r": 0.9490196108818054,
+      "g": 0.9503268003463745,
+      "b": 0.95686274766922,
+      "a": 1
+    },
+    "Primary_Colors/white": {
+      "type": "SOLID",
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "Primary_Colors/total-black": {
+      "type": "SOLID",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "Error_Colors/Red": {
+      "type": "SOLID",
+      "r": 0.8500000238418579,
+      "g": 0.3377729058265686,
+      "b": 0.3377729058265686,
+      "a": 1
+    },
+    "Primary_Colors/grey-45": {
+      "type": "SOLID",
+      "r": 0.6579999923706055,
+      "g": 0.6650000214576721,
+      "b": 0.699999988079071,
+      "a": 1
+    },
+    "Primary_Colors/grey-15": {
+      "type": "SOLID",
+      "r": 0.4000000059604645,
+      "g": 0.416666716337204,
+      "b": 0.5,
+      "a": 1
+    },
+    "Error_Colors/Orange": {
+      "type": "SOLID",
+      "r": 0.9490196108818054,
+      "g": 0.6000000238418579,
+      "b": 0.29019609093666077,
+      "a": 1
+    },
+    "Error_Colors/Yellow": {
+      "type": "SOLID",
+      "r": 0.9490196108818054,
+      "g": 0.7882353067398071,
+      "b": 0.2980392277240753,
+      "a": 1
+    },
+    "Accent_Colors/Rename": {
+      "type": "SOLID",
+      "r": 0.8352941274642944,
+      "g": 0.8823529481887817,
+      "b": 0.9529411792755127,
+      "a": 1
+    },
+    "Accent_Colors/Demo": {
+      "type": "SOLID",
+      "r": 0.18431372940540314,
+      "g": 0.501960813999176,
+      "b": 0.929411768913269,
+      "a": 1
+    },
+    "Accent_Colors/Green-40": {
+      "type": "SOLID",
+      "r": 0.25882354378700256,
+      "g": 0.7450980544090271,
+      "b": 0.3960784375667572,
+      "a": 1
+    },
+    "Primary_Colors/Accent-2": {
+      "type": "SOLID",
+      "r": 0.2980392277240753,
+      "g": 0.2980392277240753,
+      "b": 0.30588236451148987,
+      "a": 1
+    },
+    "Accent_Colors/RAW_inactive": {
+      "type": "SOLID",
+      "r": 0.95686274766922,
+      "g": 0.5529412031173706,
+      "b": 0.9960784316062927,
+      "a": 1
+    },
+    "Accent_Colors/RAW_active": {
+      "type": "SOLID",
+      "r": 0.929411768913269,
+      "g": 0.11764705926179886,
+      "b": 1,
+      "a": 1
+    },
+    "Avatars_Colors/01_Red": {
+      "type": "SOLID",
+      "r": 0.9208333492279053,
+      "g": 0.31084123253822327,
+      "b": 0.21102434396743774,
+      "a": 1
+    },
+    "Avatars_Colors/02_Lime": {
+      "type": "SOLID",
+      "r": 0.7130833268165588,
+      "g": 0.8291666507720947,
+      "b": 0,
+      "a": 1
+    },
+    "Avatars_Colors/03_Light_Blue": {
+      "type": "SOLID",
+      "r": 0.16078431904315948,
+      "g": 0.7686274647712708,
+      "b": 0.9411764740943909,
+      "a": 1
+    },
+    "Avatars_Colors/04_Blue": {
+      "type": "SOLID",
+      "r": 0.18431372940540314,
+      "g": 0.501960813999176,
+      "b": 0.929411768913269,
+      "a": 1
+    },
+    "Avatars_Colors/05_Green": {
+      "type": "SOLID",
+      "r": 0.23529411852359772,
+      "g": 0.7098039388656616,
+      "b": 0.30980393290519714,
+      "a": 1
+    },
+    "Avatars_Colors/06_Violet": {
+      "type": "SOLID",
+      "r": 0.530201256275177,
+      "g": 0.3333333134651184,
+      "b": 1,
+      "a": 1
+    },
+    "Avatars_Colors/07_Braun": {
+      "type": "SOLID",
+      "r": 0.5411764979362488,
+      "g": 0.35686275362968445,
+      "b": 0.16862745583057404,
+      "a": 1
+    },
+    "Avatars_Colors/08_Fuchsia": {
+      "type": "SOLID",
+      "r": 0.8208333253860474,
+      "g": 0.2599305510520935,
+      "b": 0.6260753870010376,
+      "a": 1
+    },
+    "Avatars_Colors/09_Orange": {
+      "type": "SOLID",
+      "r": 0.987500011920929,
+      "g": 0.5442639589309692,
+      "b": 0.20572912693023682,
+      "a": 1
+    },
+    "Avatars_Colors/10_Yellow": {
+      "type": "SOLID",
+      "r": 0.9372549057006836,
+      "g": 0.7529411911964417,
+      "b": 0,
+      "a": 1
+    },
+    "Accent_Colors/Support": {
+      "type": "SOLID",
+      "r": 0.47058823704719543,
+      "g": 0.4000000059604645,
+      "b": 0.9098039269447327,
       "a": 1
     },
     "grey-60": {
@@ -15,25 +211,18 @@
       "b": 0.5568627715110779,
       "a": 1
     },
-    "grey-30": {
+    "total-black": {
       "type": "SOLID",
-      "r": 0.7660066485404968,
-      "g": 0.7713333368301392,
-      "b": 0.797966718673706,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 1
     },
-    "grey-20": {
+    "black": {
       "type": "SOLID",
-      "r": 0.8813167810440063,
-      "g": 0.88609778881073,
-      "b": 0.9100027084350586,
-      "a": 1
-    },
-    "grey-10": {
-      "type": "SOLID",
-      "r": 0.9490196108818054,
-      "g": 0.9503268003463745,
-      "b": 0.95686274766922,
+      "r": 0.22745098173618317,
+      "g": 0.2294117659330368,
+      "b": 0.239215686917305,
       "a": 1
     },
     "accent": {
@@ -43,7 +232,56 @@
       "b": 0.239215686917305,
       "a": 1
     },
+    "grey-15": {
+      "type": "SOLID",
+      "r": 0.4000000059604645,
+      "g": 0.416666716337204,
+      "b": 0.5,
+      "a": 1
+    },
     "white": {
+      "type": "SOLID",
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "grey-10": {
+      "type": "SOLID",
+      "r": 0.9490196108818054,
+      "g": 0.9503268003463745,
+      "b": 0.95686274766922,
+      "a": 1
+    },
+    "grey-45": {
+      "type": "SOLID",
+      "r": 0.6579999923706055,
+      "g": 0.6650000214576721,
+      "b": 0.699999988079071,
+      "a": 1
+    },
+    "grey-30": {
+      "type": "SOLID",
+      "r": 0.7660066485404968,
+      "g": 0.7713333368301392,
+      "b": 0.797966718673706,
+      "a": 1
+    },
+    "Purple_2": {
+      "type": "SOLID",
+      "r": 0.7333333492279053,
+      "g": 0.41960784792900085,
+      "b": 0.8509804010391235,
+      "a": 1
+    },
+    "grey-20": {
+      "type": "SOLID",
+      "r": 0.8813167810440063,
+      "g": 0.88609778881073,
+      "b": 0.9100027084350586,
+      "a": 1
+    },
+    "White": {
       "type": "SOLID",
       "r": 1,
       "g": 1,
@@ -54,104 +292,6 @@
       "type": "SOLID",
       "r": 0.8148473501205444,
       "g": 0.07423579692840576,
-      "b": 1,
-      "a": 1
-    },
-    "total-black": {
-      "type": "SOLID",
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "a": 1
-    },
-    "error": {
-      "type": "SOLID",
-      "r": 0.8500000238418579,
-      "g": 0.3377729058265686,
-      "b": 0.3377729058265686,
-      "a": 1
-    },
-    "grey-45": {
-      "type": "SOLID",
-      "r": 0.6579999923706055,
-      "g": 0.6650000214576721,
-      "b": 0.699999988079071,
-      "a": 1
-    },
-    "grey-15": {
-      "type": "SOLID",
-      "r": 0.4000000059604645,
-      "g": 0.416666716337204,
-      "b": 0.5,
-      "a": 1
-    },
-    "Orange_Error": {
-      "type": "SOLID",
-      "r": 0.9490196108818054,
-      "g": 0.6000000238418579,
-      "b": 0.29019609093666077,
-      "a": 1
-    },
-    "Yellow_Error": {
-      "type": "SOLID",
-      "r": 0.9490196108818054,
-      "g": 0.7882353067398071,
-      "b": 0.2980392277240753,
-      "a": 1
-    },
-    "Rename": {
-      "type": "SOLID",
-      "r": 0.8352941274642944,
-      "g": 0.8823529481887817,
-      "b": 0.9529411792755127,
-      "a": 1
-    },
-    "Electric_Blue": {
-      "type": "SOLID",
-      "r": 0.18431372940540314,
-      "g": 0.501960813999176,
-      "b": 0.929411768913269,
-      "a": 1
-    },
-    "Green-40": {
-      "type": "SOLID",
-      "r": 0.25882354378700256,
-      "g": 0.7450980544090271,
-      "b": 0.3960784375667572,
-      "a": 1
-    },
-    "Accent-2": {
-      "type": "SOLID",
-      "r": 0.2980392277240753,
-      "g": 0.2980392277240753,
-      "b": 0.30588236451148987,
-      "a": 1
-    },
-    "raw_inactive": {
-      "type": "SOLID",
-      "r": 0.95686274766922,
-      "g": 0.5529412031173706,
-      "b": 0.9960784316062927,
-      "a": 1
-    },
-    "raw_active": {
-      "type": "SOLID",
-      "r": 0.929411768913269,
-      "g": 0.11764705926179886,
-      "b": 1,
-      "a": 1
-    },
-    "Purple_2": {
-      "type": "SOLID",
-      "r": 0.7333333492279053,
-      "g": 0.41960784792900085,
-      "b": 0.8509804010391235,
-      "a": 1
-    },
-    "White": {
-      "type": "SOLID",
-      "r": 1,
-      "g": 1,
       "b": 1,
       "a": 1
     }
@@ -569,18 +709,6 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d23b/fbf0/d556236adcaf6330cab650f8fc68ba61"
     },
     {
-      "id": "669:11",
-      "name": "icons/3-dots-big",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b9ba/c547/9c91dc6eaf3beab533c575a5f733ba5c"
-    },
-    {
-      "id": "877:6",
-      "name": "icons/3-dots-big-filled",
-      "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9159/d196/41d68ec2ac04c85fd905cc6b3e9e75a2"
-    },
-    {
       "id": "675:22",
       "name": "icons/scan",
       "description": "",
@@ -597,6 +725,30 @@
       "name": "icons/model",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/95a8/7671/3a86c8734c5146f5e0aa9120d634836e"
+    },
+    {
+      "id": "5268:52",
+      "name": "icons/distance",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ee04/9603/338a8c4493c38a9a72f8dda4c81fddf3"
+    },
+    {
+      "id": "5277:117",
+      "name": "icons/section",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d65d/533b/5670335b92cdb8fef1d1474e6d6882fe"
+    },
+    {
+      "id": "5277:161",
+      "name": "icons/contour",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/52eb/3f24/a0617e81cdcaa45b85580c467718a3d0"
+    },
+    {
+      "id": "5277:139",
+      "name": "icons/section_group",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/28a3/0e38/42b5a23649ffb7e50d0e24c503c35589"
     },
     {
       "id": "2341:92",
@@ -621,6 +773,12 @@
       "name": "icons/group",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b212/955e/6efab3c35333c9645f093679448d5132"
+    },
+    {
+      "id": "5275:78",
+      "name": "icons/nothing",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/da39/a3ee/5e6b4b0d3255bfef95601890afd80709"
     },
     {
       "id": "679:34",
@@ -657,6 +815,11 @@
       "name": "icons/arrow-right-25",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c86c/03c2/cbe2c986b47902a01cae33c66848fcd7"
+    },
+    {
+      "id": "5271:58",
+      "name": "_Triangle",
+      "description": ""
     },
     {
       "id": "687:17",
@@ -699,6 +862,12 @@
       "name": "icon/filter",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a04b/dd0f/d4800b222cc01d72180c4be8e97cd384"
+    },
+    {
+      "id": "5190:52",
+      "name": "icon/filtered",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7e0f/e7e1/00fdc36fbe17339ffdc4eda10a05165e"
     },
     {
       "id": "621:121",
@@ -1304,7 +1473,7 @@
       "id": "2341:79",
       "name": "icons/redo",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5b14/01d2/51a5d6b60a74be1ccf84d22fca7b8af1"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/42de/c936/abcea01209ce79f0b2dc17bb65dfabf4"
     },
     {
       "id": "2421:2",
@@ -1535,10 +1704,28 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8595/3dfa/dd36c61a4627facda6301039854842be"
     },
     {
+      "id": "5189:69",
+      "name": "icon/link-15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/08b4/bad6/43938ceaae923dcef642aab95f214399"
+    },
+    {
+      "id": "5189:84",
+      "name": "icon/eye-15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b8e4/e9b5/eb0f4928f7cac773b56f1508d9c1de3e"
+    },
+    {
+      "id": "5189:93",
+      "name": "icon/download-15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e5ab/30f9/16f1f11fbc36e1e2022dca8c8aea1e52"
+    },
+    {
       "id": "5109:67",
       "name": "icon/warning_yellow",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/36ae/e1b2/ba26d27f2cefa079999e1beef9b09be5"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/70fd/bb02/b596c2dcd7fdb768997ca66114b9bf11"
     },
     {
       "id": "5002:64",
@@ -1556,7 +1743,7 @@
       "id": "4794:52",
       "name": "icons/folder",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d372/3c9f/6dde7479d51497d76f3a067ed4c096ac"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/25b1/c595/b6b421a61094e3f17a761c3267169d83"
     },
     {
       "id": "4504:42",
@@ -1587,6 +1774,16 @@
       "name": "icon/copy",
       "description": "",
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/17b9/6b1d/ea52ee40954255feacd28074cec12418"
+    },
+    {
+      "id": "669:11",
+      "name": "Property_1=3-dots-big",
+      "description": ""
+    },
+    {
+      "id": "877:6",
+      "name": "Property_1=3-dots-big-filled",
+      "description": ""
     },
     {
       "id": "133:17",
