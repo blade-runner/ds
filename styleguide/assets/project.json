@@ -1,203 +1,203 @@
 {
   "version": "1582756886",
   "colors": {
-    "Primary_Colors/black": {
+    "Primary_Colors_black": {
       "type": "SOLID",
       "r": 0.22745098173618317,
       "g": 0.2294117659330368,
       "b": 0.239215686917305,
       "a": 1
     },
-    "Primary_Colors/grey-60": {
+    "Primary_Colors_grey-60": {
       "type": "SOLID",
       "r": 0.4941176474094391,
       "g": 0.5045751333236694,
       "b": 0.5568627715110779,
       "a": 1
     },
-    "Primary_Colors/grey-30": {
+    "Primary_Colors_grey-30": {
       "type": "SOLID",
       "r": 0.7660066485404968,
       "g": 0.7713333368301392,
       "b": 0.797966718673706,
       "a": 1
     },
-    "Primary_Colors/grey-20": {
+    "Primary_Colors_grey-20": {
       "type": "SOLID",
       "r": 0.8813167810440063,
       "g": 0.88609778881073,
       "b": 0.9100027084350586,
       "a": 1
     },
-    "Primary_Colors/grey-10": {
+    "Primary_Colors_grey-10": {
       "type": "SOLID",
       "r": 0.9490196108818054,
       "g": 0.9503268003463745,
       "b": 0.95686274766922,
       "a": 1
     },
-    "Primary_Colors/white": {
+    "Primary_Colors_white": {
       "type": "SOLID",
       "r": 1,
       "g": 1,
       "b": 1,
       "a": 1
     },
-    "Primary_Colors/total-black": {
+    "Primary_Colors_total-black": {
       "type": "SOLID",
       "r": 0,
       "g": 0,
       "b": 0,
       "a": 1
     },
-    "Error_Colors/Red": {
+    "Error_Colors_Red": {
       "type": "SOLID",
       "r": 0.8500000238418579,
       "g": 0.3377729058265686,
       "b": 0.3377729058265686,
       "a": 1
     },
-    "Primary_Colors/grey-45": {
+    "Primary_Colors_grey-45": {
       "type": "SOLID",
       "r": 0.6579999923706055,
       "g": 0.6650000214576721,
       "b": 0.699999988079071,
       "a": 1
     },
-    "Primary_Colors/grey-15": {
+    "Primary_Colors_grey-15": {
       "type": "SOLID",
       "r": 0.4000000059604645,
       "g": 0.416666716337204,
       "b": 0.5,
       "a": 1
     },
-    "Error_Colors/Orange": {
+    "Error_Colors_Orange": {
       "type": "SOLID",
       "r": 0.9490196108818054,
       "g": 0.6000000238418579,
       "b": 0.29019609093666077,
       "a": 1
     },
-    "Error_Colors/Yellow": {
+    "Error_Colors_Yellow": {
       "type": "SOLID",
       "r": 0.9490196108818054,
       "g": 0.7882353067398071,
       "b": 0.2980392277240753,
       "a": 1
     },
-    "Accent_Colors/Rename": {
+    "Accent_Colors_Rename": {
       "type": "SOLID",
       "r": 0.8352941274642944,
       "g": 0.8823529481887817,
       "b": 0.9529411792755127,
       "a": 1
     },
-    "Accent_Colors/Demo": {
+    "Accent_Colors_Demo": {
       "type": "SOLID",
       "r": 0.18431372940540314,
       "g": 0.501960813999176,
       "b": 0.929411768913269,
       "a": 1
     },
-    "Accent_Colors/Green-40": {
+    "Accent_Colors_Green-40": {
       "type": "SOLID",
       "r": 0.25882354378700256,
       "g": 0.7450980544090271,
       "b": 0.3960784375667572,
       "a": 1
     },
-    "Primary_Colors/Accent-2": {
+    "Primary_Colors_Accent-2": {
       "type": "SOLID",
       "r": 0.2980392277240753,
       "g": 0.2980392277240753,
       "b": 0.30588236451148987,
       "a": 1
     },
-    "Accent_Colors/RAW_inactive": {
+    "Accent_Colors_RAW_inactive": {
       "type": "SOLID",
       "r": 0.95686274766922,
       "g": 0.5529412031173706,
       "b": 0.9960784316062927,
       "a": 1
     },
-    "Accent_Colors/RAW_active": {
+    "Accent_Colors_RAW_active": {
       "type": "SOLID",
       "r": 0.929411768913269,
       "g": 0.11764705926179886,
       "b": 1,
       "a": 1
     },
-    "Avatars_Colors/01_Red": {
+    "Avatars_Colors_01_Red": {
       "type": "SOLID",
       "r": 0.9208333492279053,
       "g": 0.31084123253822327,
       "b": 0.21102434396743774,
       "a": 1
     },
-    "Avatars_Colors/02_Lime": {
+    "Avatars_Colors_02_Lime": {
       "type": "SOLID",
       "r": 0.7130833268165588,
       "g": 0.8291666507720947,
       "b": 0,
       "a": 1
     },
-    "Avatars_Colors/03_Light_Blue": {
+    "Avatars_Colors_03_Light_Blue": {
       "type": "SOLID",
       "r": 0.16078431904315948,
       "g": 0.7686274647712708,
       "b": 0.9411764740943909,
       "a": 1
     },
-    "Avatars_Colors/04_Blue": {
+    "Avatars_Colors_04_Blue": {
       "type": "SOLID",
       "r": 0.18431372940540314,
       "g": 0.501960813999176,
       "b": 0.929411768913269,
       "a": 1
     },
-    "Avatars_Colors/05_Green": {
+    "Avatars_Colors_05_Green": {
       "type": "SOLID",
       "r": 0.23529411852359772,
       "g": 0.7098039388656616,
       "b": 0.30980393290519714,
       "a": 1
     },
-    "Avatars_Colors/06_Violet": {
+    "Avatars_Colors_06_Violet": {
       "type": "SOLID",
       "r": 0.530201256275177,
       "g": 0.3333333134651184,
       "b": 1,
       "a": 1
     },
-    "Avatars_Colors/07_Braun": {
+    "Avatars_Colors_07_Braun": {
       "type": "SOLID",
       "r": 0.5411764979362488,
       "g": 0.35686275362968445,
       "b": 0.16862745583057404,
       "a": 1
     },
-    "Avatars_Colors/08_Fuchsia": {
+    "Avatars_Colors_08_Fuchsia": {
       "type": "SOLID",
       "r": 0.8208333253860474,
       "g": 0.2599305510520935,
       "b": 0.6260753870010376,
       "a": 1
     },
-    "Avatars_Colors/09_Orange": {
+    "Avatars_Colors_09_Orange": {
       "type": "SOLID",
       "r": 0.987500011920929,
       "g": 0.5442639589309692,
       "b": 0.20572912693023682,
       "a": 1
     },
-    "Avatars_Colors/10_Yellow": {
+    "Avatars_Colors_10_Yellow": {
       "type": "SOLID",
       "r": 0.9372549057006836,
       "g": 0.7529411911964417,
       "b": 0,
       "a": 1
     },
-    "Accent_Colors/Support": {
+    "Accent_Colors_Support": {
       "type": "SOLID",
       "r": 0.47058823704719543,
       "g": 0.4000000059604645,
