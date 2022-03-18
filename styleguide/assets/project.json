@@ -1,5 +1,5 @@
 {
-  "version": "1582756886",
+  "version": "1649143414",
   "colors": {
     "Primary_Colors_black": {
       "type": "SOLID",
@@ -265,6 +265,13 @@
       "r": 0.7660066485404968,
       "g": 0.7713333368301392,
       "b": 0.797966718673706,
+      "a": 1
+    },
+    "Black": {
+      "type": "SOLID",
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 1
     },
     "Purple_2": {
@@ -712,7 +719,7 @@
       "id": "675:22",
       "name": "icons/scan",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4b3f/58ed/fd809be11f1e926d2e58489862f80c93"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a211/4fd8/848b78392f3336c50c5c2964e62f1ab2"
     },
     {
       "id": "675:28",
@@ -721,34 +728,70 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cca4/aefa/dbbdce8d4265107d5ca7cc102d8976db"
     },
     {
+      "id": "5308:86",
+      "name": "icons/radio_off",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3329/501c/59f0f51e501bd74324e10de52f4ec845"
+    },
+    {
+      "id": "5308:87",
+      "name": "icons/radio_on",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d552/b49e/94ea9da04b1a161a56af1333ed4c019d"
+    },
+    {
       "id": "677:7",
       "name": "icons/model",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/95a8/7671/3a86c8734c5146f5e0aa9120d634836e"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9fa6/dba5/370117c77c055cb19511b088e26c92d7"
+    },
+    {
+      "id": "5312:58",
+      "name": "icons/CAD",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7b6c/6e5b/45c065e3663cf57b1db5cbeceee03215"
+    },
+    {
+      "id": "5290:54",
+      "name": "icons/distanse_map_1",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/29d4/6175/53edbba59ff798c0ed90c61e15a75d4c"
+    },
+    {
+      "id": "5294:54",
+      "name": "icons/settings15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c5e8/a7d2/883137123bbd5f9efbe933d8bc265702"
+    },
+    {
+      "id": "5290:65",
+      "name": "icons/distanse_map_2",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e3d3/dcef/d7e538a2250cee5006f0de84a454fd30"
     },
     {
       "id": "5268:52",
       "name": "icons/distance",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ee04/9603/338a8c4493c38a9a72f8dda4c81fddf3"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/be43/3972/2d21128626de4523bb0ab57175de2cde"
     },
     {
       "id": "5277:117",
       "name": "icons/section",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d65d/533b/5670335b92cdb8fef1d1474e6d6882fe"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9422/9e4d/f0c64b7c160dae4e7d7eb316c32740c4"
     },
     {
       "id": "5277:161",
       "name": "icons/contour",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/52eb/3f24/a0617e81cdcaa45b85580c467718a3d0"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4469/d1be/88d142806c79cf6d21789a74ee05412e"
     },
     {
       "id": "5277:139",
       "name": "icons/section_group",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/28a3/0e38/42b5a23649ffb7e50d0e24c503c35589"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d898/a749/e0bbf80712f11c1d32d26fb8b8c8ca01"
     },
     {
       "id": "2341:92",
@@ -1668,6 +1711,12 @@
       "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e7cd/cc8c/dd9a41b30dff58051034dffa1a0053c0"
     },
     {
+      "id": "5326:66",
+      "name": "icons/shared_15",
+      "description": "",
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/946f/ca2a/046fcbd7a69da48d6fae0d8be9bd6052"
+    },
+    {
       "id": "4424:126",
       "name": "icon/label_only_view",
       "description": "",
@@ -1743,7 +1792,7 @@
       "id": "4794:52",
       "name": "icons/folder",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/25b1/c595/b6b421a61094e3f17a761c3267169d83"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0444/a665/a33e69cb4f1a9a02c38fce4e601e7850"
     },
     {
       "id": "4504:42",
@@ -1767,7 +1816,7 @@
       "id": "4867:81",
       "name": "icon/raw_data",
       "description": "",
-      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/766d/295a/4f064379b5b665b5e300b759e6c4ae06"
+      "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b841/5e6b/b283eaa3c80d4bf31a713ed6c4faad2d"
     },
     {
       "id": "4876:56",

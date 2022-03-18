@@ -1,5 +1,5 @@
 <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M6 0H5V2H2V13H5V15H6V0ZM5 12V3H3V12H5Z" fill="#A8AAB3"/>
-<path d="M9 0H10V15H9V13H7V12H9V3H7V2H9V0Z" fill="#A8AAB3"/>
-<path d="M11 2H13V13H11V12H12V3H11V2Z" fill="#E1E2E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 0H5V2H2V13H5V15H6V0ZM5 12V3H3V12H5Z" fill="#3A3B3D"/>
+<path d="M9 0H10V15H9V13H7V12H9V3H7V2H9V0Z" fill="#3A3B3D"/>
+<path d="M11 2H13V13H11V12H12V3H11V2Z" fill="#A8AAB3"/>
 </svg>
